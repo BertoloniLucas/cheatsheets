@@ -5,15 +5,15 @@ image: "/assests/images/csharp.svg"
 
 ## Índice 
 
--[Índice](#índice)
--[Introducción a C#](#introducción)
-    -[¿Qué es C#?](#qué-es-c)
-    -[¿Para que se utiliza C#?](#para-qué-se-utiliza-c)
--[Variables en C#](#variables-en-c)
-    -[Tipos de datos](#tipos-de-datos)
-    -[Declaración de variables](#declaración-de-variables)
-        -[var](#var)
-        -[const](#const)
+- [Índice](#índice)
+- [Introducción a C#](#introducción)
+    - [¿Qué es C#?](#qué-es-c)
+    - [¿Para que se utiliza C#?](#para-qué-se-utiliza-c)
+- [Variables en C#](#variables-en-c)
+    - [Tipos de datos](#tipos-de-datos)
+    - [Declaración de variables](#declaración-de-variables)
+        - [var](#var)
+        - [const](#const)
 
 
 <br>
